@@ -81,7 +81,7 @@ myButtonDiv.append(myReset)
 			mybimclick.src = "img/pointer.png"
 			mybimclick2.src = "img/pointer.png"
 			mybimclick.style.cssText = "position:absolute; width:30px; right:100%; top:50%; transform:translate(-50%, -50%)"
-			mybimclick2.style.cssText = "position:absolute; width:30px; left:100%; top:50%; transform:translate(50%, -50%) rotate(90deg)"
+			mybimclick2.style.cssText = "position:absolute; width:30px; left:100%; top:50%; transform:translate(50%, -50%) rotate(180deg)"
 			myBmessage.append(mybimclick)
 			myBmessage.append(mybimclick2)
 			
