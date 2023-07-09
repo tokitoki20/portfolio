@@ -837,7 +837,7 @@ myLogo.addEventListener("click", function(){
 let toupup = setInterval(toup,10)
 setTimeout(function(){
 	document.body.style.removeProperty("justify-content")
-},2500)
+},3500)
 
 
 let myLoadingDiv = document.createElement("div")
