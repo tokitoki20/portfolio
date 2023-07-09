@@ -183,7 +183,7 @@ let myMainSkills = document.createElement("div")
 			skill2Title.append("Design")
 		let skill3 = document.createElement("div")
 		let skill3Title = document.createElement("p")
-			skill3Title.append("3D Modeler")
+			skill3Title.append("Artist")
 			skill1.classList.add("skilli")
 			skill2.classList.add("skilli")
 			skill3.classList.add("skilli")
@@ -270,20 +270,20 @@ let myMainSkills = document.createElement("div")
 			image : "img/logo-image.png"
 
 		},
-		"2": {
-			name: "PortfGFolio",
-			languages: ["HTML", "CSS", "JavaScript"], 
-			description: "My portfolio website, you're probably looking at right now.",
-			image : "img/logo-image.png"
+		// "2": {
+		// 	name: "PortfGFolio",
+		// 	languages: ["HTML", "CSS", "JavaScript"], 
+		// 	description: "My portfolio website, you're probably looking at right now.",
+		// 	image : "img/logo-image.png"
 
-		},
-		"3": {
-			name: "Portffolio",
-			languages: ["HTML", "CSS", "JavaScript"], 
-			description: "My portfolio website, you're probably looking at right now.",
-			image : "img/logo-image.png"
+		// },
+		// "3": {
+		// 	name: "Portffolio",
+		// 	languages: ["HTML", "CSS", "JavaScript"], 
+		// 	description: "My portfolio website, you're probably looking at right now.",
+		// 	image : "img/logo-image.png"
 
-		},
+		// },
 	}
 
 
